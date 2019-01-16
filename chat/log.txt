@@ -1,0 +1,14 @@
+
+('192.168.1.111', 53558) - michal has disconnected
+connection from: ('192.168.1.111', 53566) - michal
+[20:46:59 michal] ahoj
+[20:47:04 michal] huigtufrut
+('192.168.1.111', 53566) - michal has disconnected
+connection from: ('192.168.1.111', 53570) - michal
+('192.168.1.111', 53570) - michal has disconnected
+connection from: ('192.168.1.111', 53580) - michal
+[21:08:12 michal] ahoj
+[21:08:22 michal] mam rozhovor sam se sebou
+('192.168.1.111', 53580) - michal has disconnected
+connection from: ('192.168.1.111', 53590) - michal
+('192.168.1.111', 53590) - michal has disconnected
